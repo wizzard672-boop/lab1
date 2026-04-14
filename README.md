@@ -13,7 +13,8 @@
 
 Выполнен форматированный вывод результатов с новой строки для каждого города 
 
-**Результат:** 
+**Результат:**  <img width="1472" height="70" alt="image" src="https://github.com/user-attachments/assets/e0f1f1fb-3fc2-44b8-b498-8c1450579437" />
+
 
 
 
@@ -32,7 +33,8 @@
 
 Выполнено сравнение расстояния с радиусом 
 
-**Результат:**
+**Результат:** <img width="976" height="59" alt="image" src="https://github.com/user-attachments/assets/fc36f3c0-12eb-4152-8036-fd65217a7b8d" />
+
 
 
  
@@ -51,7 +53,8 @@
 
 1 × (2 + 3) × 5 = 25 
 
-**Результат:** /home/maslenok/Рабочий стол/111111/Screenshot_20260414_145051.png
+**Результат:** <img width="1011" height="49" alt="image" src="https://github.com/user-attachments/assets/bf92dbd9-9f5e-4262-b55a-2bfc65b108bb" />
+
 
 
  
@@ -66,7 +69,8 @@
 
 Извлечение фильмов срезами 
 
-**Результат:**
+**Результат:**  <img width="1096" height="84" alt="image" src="https://github.com/user-attachments/assets/6f6d234c-fe32-49cb-b8fa-ed41bf661da1" />
+
 
 
  
