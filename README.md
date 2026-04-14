@@ -91,7 +91,8 @@
 
 Подсчитана суммарный рост всех членов семьи 
 
-**Результат:**
+**Результат:** <img width="1026" height="50" alt="image" src="https://github.com/user-attachments/assets/b07a3276-2e7f-4140-94ad-33920654adb0" />
+
 
 
  
@@ -112,7 +113,9 @@
 
 Использован index() для поиска позиций 
 
-**Результат:**
+**Результат:** <img width="951" height="95" alt="image" src="https://github.com/user-attachments/assets/25513f9c-c78d-4015-bdd1-d3f059395c26" />
+
+
 
 
 
@@ -130,7 +133,8 @@
 
 Подсчитано общее время трех песен и остальных 
 
-**Результат:** 
+**Результат:** <img width="1014" height="47" alt="image" src="https://github.com/user-attachments/assets/5eaee8df-6ef3-4253-b408-bed901189ebd" />
+
 
  
 
@@ -146,7 +150,8 @@
 
 Собрано расшифрованное сообщение 
 
-**Результат:**
+**Результат:** <img width="979" height="35" alt="image" src="https://github.com/user-attachments/assets/68449fb3-ec17-40e1-93c7-1f371fdf2c2e" />
+
 
 
 
@@ -164,7 +169,8 @@
 
 Результаты отсортированы 
 
-**Результат:** 
+**Результат:**  <img width="981" height="78" alt="image" src="https://github.com/user-attachments/assets/5fc1f42a-2095-41bb-8f22-5ccb0491e157" />
+
 
 
 
@@ -186,7 +192,8 @@
 
 Результат выведен в виде таблицы 
 
-**Результат:** 
+**Результат:** <img width="1483" height="32" alt="image" src="https://github.com/user-attachments/assets/d3e379ed-8aa0-4fb8-984d-76ae23c670bb" />
+
 
 
 
@@ -206,7 +213,8 @@
 
 Выведены результаты для каждого товара 
 
-**Результат:**
+**Результат:** <img width="966" height="83" alt="image" src="https://github.com/user-attachments/assets/40372c68-1ff9-47fb-8744-a7eafef0e684" />
+
 
 
 
